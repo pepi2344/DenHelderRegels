@@ -187,7 +187,7 @@ Zijn toegestaan, ook als jij geen Content Creator rol hebt. Het is niet toegesta
 
 8.2) Streamsniping
 Het volgen of zoeken van een streamer via zijn of haar stream is niet toegestaan. Bijvoorbeeld als pietje aan het streamen is mag henk niet pietje zoeken via zijn stream.
-᲼᲼᲼᲼᲼᲼
+
 Het naleven van de Regels
 
 9.1) Iedereen moet de serversregels naleven
