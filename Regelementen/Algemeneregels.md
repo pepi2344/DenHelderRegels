@@ -124,6 +124,9 @@ Het is dan weer niet toegestaan om mensen te ontvoeren vanuit de stad en daar te
 3.8) Wapens en locaties doorspelen
 Het doorverkopen van wapens en locaties mag niet, alleen de black market mag dit. Als je locaties koopt bij de black market voor je gang mag de gehele gang er gebruik van maken. Koop je het voor je zelf mag je het met niemand delen. Hetzelfde geldt als je hem zelf vind, je gebruikt hem alleen zelf en laat hem niemand anders zien.
 
+3.9) Voice changers
+Voice changers mag je alleen gebruiken als je een dicht helm op hebt.
+
 Metagaming gerelateerde regels
 
 4.1) Metagaming 
