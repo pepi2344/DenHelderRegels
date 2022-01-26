@@ -18,7 +18,7 @@ Het is niet toegestaan om bug's te misbruiken. Je bent verplicht deze te melden,
 
 1.6) Je character breken
 Het is niet toegestaan om je character te breken. Dit houd in dat je ten alle tijden moet praten over wat ingame gebeurt, als je dit niet doet praat je OOC (Out Of Character) en dit is niet toegestaan.
-᲼᲼᲼᲼᲼᲼
+
 1.7) Combat logging (Uitloggen tijdens een roleplayscenario)
 Combat logging is niet toegestaan. Hieronder verstaan wij onder andere: Het uitloggen tijdens bijvoorbeeld een vuurgevecht, een achtervolging/aanhouding of staande houding. Ook als je moet gaan eten of slapen is dat geen excuus, je moet hierover nadenken voordat je de Roleplay start. Op het moment dat je game crasht, laat je dit indien mogelijk weten aan de overige spelers en probeer je zo snel mogelijk weer te joinen.
 
@@ -30,7 +30,7 @@ Elkaar doodslaan en voertuigen stelen voor de gevangenis, het politiebureau of K
 
 1.10) Vluchten voor politie/KMar
 Om te vluchten voor de politie of KMar heb je een geldige reden nodig. Vluchten omdat je geen zin hebt in Roleplay met een agent/marechaussee, of omdat je anders een boete krijgt is niet toegestaan. Je mag wel vluchten als je bijvoorbeeld vuurwapens en/of drugs bij je hebt. Houd er rekening mee dat bij een staande houding de politie/KMar je niet mag fouilleren, maar als je vlucht en gepakt wordt wel. Als je besluit om toch te vluchten denk er dan wel aan dat je jezelf houdt aan regel 1.3 en 5.1.
-᲼᲼᲼᲼᲼᲼
+
 1.11) Informatie doorspelen 
 Het doorspelen van informatie is toegestaan in radio's. Echter moet alles wel te horen zijn ingame. Als Jan bijvoorbeeld assistentie vraagt aan Mustafa omdat hij aangehouden wordt door de KMar, moet dit ingame te horen zijn door de Marechaussee. Op het moment dat je communicatieapparatuur afgepakt wordt dien je jezelf volledig te muten op Discord.
 
@@ -51,7 +51,7 @@ Is niet toegestaan. Dit zal in de meeste gevallen leiden tot een tijdelijke ban.
 1.15) FRP (FailRolePlay)
 
 FRP is niet toegestaan. Dit houd is dan je zulke slechte roleplay vertoond dat niemand er op kan terug roleplayen. Denk hierbij aan. Een uit stappen terwijl je in de boeien zit.
-᲼᲼᲼᲼᲼᲼
+
 Overheid gerelateerde Roleplay regels
 
 2.1) Het agressief benaderen van Ambulance, Taxi en ANWB
@@ -69,7 +69,7 @@ Op het moment dat iemand in dienst is moet hij ten alle tijde aanwezig zijn in e
 2.5) Informatie doorspelen
 Als een overheidsmedewerker iets doorgeeft via de porto dient dat ten alle tijde ook ingame hoorbaar zijn. Een voorbeeld hiervan is als er assistentie bij geroepen word. Als een agent ontnomen wordt van zijn mogelijkheid van communiceren dient hij zich volledig te muten in het OC/OPS kanaal.
 
-᲼᲼᲼᲼᲼᲼
+
 2.6) Natrekken van telefoon en Twitter gegevens behoort tot 1 van de mogelijkheden die de politie/KMar heeft 
 Anoniem bellen of twitteren heeft dus geen zin, omdat de politie informatie zoals telefoonnummers en gebruikersnamen in handen heeft.
 
@@ -87,7 +87,7 @@ De Roleplay met de ambulancemedewerkers moet zo realistisch mogelijk zijn. Zo mo
 2.10) Criminele activiteiten als overheid
 Het uitvoeren van criminele activiteiten als werknemer van de overheid is verboden.
 
-᲼᲼᲼᲼᲼᲼
+
 Criminele gerelateerde Roleplay regels
 
 3.1) Twitter
@@ -103,8 +103,9 @@ Regel 5.1 is hierin een hoofdrolspeler. Verder gelden er de volgende regels als 
 
 3.3) Gijzelingen
 Gijzelingen zijn moeilijke scenario’s, je moet hierbij oppassen dat je niet gaat powergamen (regel 7.1), en de gijzelaar en politie/KMar altijd een realistische keuze laat hebben, aan die keuze moet je jezelf ook houden. Je mag bijvoorbeeld niet €100.000 eisen omdat je hem anders vermoord, en hem achteraf alsnog vermoorden. Tevens is het niet toegestaan om leden die net nieuw zijn of vrienden te ontvoeren. Degene die je ontvoert mag van tevoren dus ook nergens van afweten.
-᲼᲼᲼᲼᲼᲼
-3.4) Het overvallen van een winkelq
+
+
+3.4) Het overvallen van een winkel
 Winkelovervallen zijn toegestaan vanaf 2 agenten/Marechaussee online. Zorg ervoor dat je goede Roleplay levert tijdens de overval, buiten gaan staan terwijl de timer nog loopt is bijvoorbeeld niet toegestaan. 
 
 3.5) Het overvallen van de bank
@@ -112,14 +113,15 @@ Een bankoverval is een grote missie, hierin valt veel geld te verdienen en gelde
 
 3.6) Het schieten vanuit voertuigen 
 Drive-by schietgevechten mogen alleen onder de 50 km/h. En zijn alleen voor bijrijders en nooit voor de bestuurder, ook niet van een stilstaand voertuig.
-᲼᲼᲼᲼᲼᲼
+
+
 3.7) Het gebruik maken van Cayo Perico
 Het eiland Cayo Perico zit in Den Haag en wordt ook in enkele scripts gebruikt. Echter is het niet toegestaan om hier buiten de scripts om criminele activiteiten uit te voeren of rond te hangen met spelers, omdat de politie/Marechaussee (en andere hulpdiensten) in geen enkel geval op dit eiland mogen komen en je ze dus buitenspel zet. Je mag dus niet vluchten naar het eiland om van de politie te ontkomen of gewoon hangen op het eiland terwijl je er niets te zoeken hebt. Houd er rekening mee dat in het roleplay verhaal van Cayo Perico de Black market de baas is van het eiland, je gaat er dus niet op kloten.
 Om jullie als spelers niet te veel te limiteren hebben we een aantal uitzonderingen:
 - Je mag hier komen voor een afspraak met de Black Market, denk aan een deal of opdracht;
 - Je mag spelers overvallen en vermoorden, echter zul je wel jezelf moeten verdedigen, omdat hulpdiensten niet in dit gebied kunnen komen.
 Het is dan weer niet toegestaan om mensen te ontvoeren vanuit de stad en daar te vermoorden o.i.d, want dan zet je zoals eerder gezegd de politie/Marechaussee buitenspel.
-᲼᲼᲼᲼᲼᲼
+
 
 3.8) Wapens en locaties doorspelen
 Het doorverkopen van wapens en locaties mag niet, alleen de black market mag dit. Als je locaties koopt bij de black market voor je gang mag de gehele gang er gebruik van maken. Koop je het voor je zelf mag je het met niemand delen. Hetzelfde geldt als je hem zelf vind, je gebruikt hem alleen zelf en laat hem niemand anders zien.
@@ -137,9 +139,9 @@ Alles wat jij in Discord tegen iemand zegt omtrent Roleplay of handelingen ingam
 
 4.3) Ingame opnames
 Als je opnames ingame wilt gebruiken (voor bijvoorbeeld overheidsklachten of rechercheonderzoeken), moet je ingame daadwerkelijk, een telefoon, bodycam, of camera fysiek vasthebben. Het met bijvoorbeeld Shadowplay, opnemen van iemand die een persoon neersteekt zonder dat je een opnamemiddel vast hebt en die opname ingame gebruiken, is dus niet toegestaan.
-᲼᲼᲼᲼᲼᲼
-Value your life gerelateerde regels
 
+
+Value your life gerelateerde regels
 
 5.1) Waardeer ten alle tijde je leven 
 Zoals je in het echt ook zou doen moet je je leven waarderen. Doodgaan of gewond raken wil je absoluut niet, dus dit probeer je ook te voorkomen. Als je in een minder sterke positie staat ten opzichte van je 'tegenspeler' dan moet je aan zijn eisen voldoen. 
@@ -150,7 +152,8 @@ Enkele voorbeelden hiervan zijn:
 
 5.2) GTA-Style rijgedrag 
 Als jij met 200 km/u door de stad rijd en tegen een lantaarnpaal aan rijdt, ben je vrijwel zeker zwaargewond, dit is wederom iets wat je absoluut niet wilt en is dus niet toegestaan. De richtlijn is maximaal 90 km/u over een kruispunt en maximaal 130 km/u door de stad. Soms is het hoger en soms lager, dit zul je zelf in moeten schatten. De uitspraak van een stafflid is hier altijd leidend.
-᲼᲼᲼᲼᲼᲼
+
+
 New life rule (De regel van het nieuwe leven)
 
 6.1.1) New Life Rule
@@ -177,7 +180,8 @@ meedoen aan de roleplaysituatie waar je in verwikkeld zat
 - Mag je geen 'tactische' informatie doorspelen zoals de locatie van een verborgen 'sniper' 
 - Moet je in je achterhoofd houden dat je zwaar gehavend bent en je dus ook zo moet reageren.
 - Moet je mee naar het ziekenhuis op het moment dat de ambulance dat aangeeft
-᲼᲼᲼᲼᲼᲼
+
+
 Regels omtrent Powergaming
 
 7.1) Powergaming 
@@ -195,5 +199,5 @@ Het naleven van de Regels
 
 9.1) Iedereen moet de serversregels naleven
 Om ervoor te zorgen dat iedereen de regels naleeft hebben wij Moderator’s aangesteld. Deze kunnen waarschuwingen geven en indien nodig je verbannen van de FiveM- en Discord-server. Voor gesprekken met staffleden gelden de volgende regels: 
-- Respectloos reageren tegen een staffleden wordt niet geaccepteerd. Er dient ten alle tijde respect geuit te worden naar staffleden. 
+- Respectloos reageren tegen een staffleden wordt niet geaccepteerd. Er dient ten alle tijde respect geuit te worden naar staffleden. Als u dit niet doet krijgt u gelijk een permanente ban.
 - Een gesprek niet serieus nemen, flippen tegen een stafflid, niet met een stafflid in gesprek willen gaan of op enige andere manier geen respect tonen tegen de moderator er een officiële waarschuwing gegeven zal worden.
