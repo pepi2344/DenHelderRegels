@@ -195,9 +195,15 @@ Zijn toegestaan, ook als jij geen Content Creator rol hebt. Het is niet toegesta
 8.2) Streamsniping
 Het volgen of zoeken van een streamer via zijn of haar stream is niet toegestaan. Bijvoorbeeld als pietje aan het streamen is mag henk niet pietje zoeken via zijn stream.
 
+Winkel eigenaren
+
+9.1) Verkopen
+Je mag alleen maar goederen verkopen die je kan inkopen. Dus niet van je eigen inventaris. Je mag producten verkopen voor maximaal €175 onder de inkoop prijs. Daarboven mag altijd en zit geen limiet op.
+Houdt u zich hier niet aan bent u uw winkel kwijt.
+
 Het naleven van de Regels
 
-9.1) Iedereen moet de serversregels naleven
+10.1) Iedereen moet de serversregels naleven
 Om ervoor te zorgen dat iedereen de regels naleeft hebben wij Moderator’s aangesteld. Deze kunnen waarschuwingen geven en indien nodig je verbannen van de FiveM- en Discord-server. Voor gesprekken met staffleden gelden de volgende regels: 
 - Respectloos reageren tegen een staffleden wordt niet geaccepteerd. Er dient ten alle tijde respect geuit te worden naar staffleden. Als u dit niet doet krijgt u gelijk een permanente ban.
 - Een gesprek niet serieus nemen, flippen tegen een stafflid, niet met een stafflid in gesprek willen gaan of op enige andere manier geen respect tonen tegen de moderator er een officiële waarschuwing gegeven zal worden.
